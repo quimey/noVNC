@@ -3,6 +3,7 @@
   "version": "1.4.0",
   "description": "An HTML5 VNC client",
   "browser": "lib/rfb",
+  "main": "core/rfb.js",
   "directories": {
     "lib": "lib",
     "doc": "docs",
